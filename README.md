@@ -15,21 +15,21 @@ Function: COUNTIF & Pivot tables
 Insight: Which movie certification dominates top-rated films?
 
 Maximum Rating by Movie Certification
-
+```
 Function: MAX
-
+```
 Insight: Highest-rated movies by audience suitability (R, PG, etc.).
 
 Movies by Decade
-
+```
 Function: Pivot table grouping by decade
-
+```
 Insight: Which decade produced the most top-rated movies?
 
 Top 10 Movies by Ratings
-
+```
 Function: LARGE, INDEX-MATCH
-
+```
 Insight: The absolute best of IMDb according to ratings.
 
 Decade with Highest Average Ratings
