@@ -1,6 +1,6 @@
 # IMDb Top Movies Analysis
 
-![imbd](https://upload.wikimedia.org/wikipedia/commons/6/69/IMDB_Logo_2016.svg)
+![imbd](https://cdn.prod.website-files.com/626fae216404de74c2539b98/633558f4ed4b31fead1f3382_8.png)
 
 This project explores the Top IMDb Movies dataset and provides meaningful insights into movie trends, ratings, genres, and popularity across decades. Using Excel (pivot tables, charts, and dashboards), the project answers analytical questions about movies and helps uncover what makes a film truly "top-rated".
 
