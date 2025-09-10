@@ -9,9 +9,9 @@ This project explores the Top IMDb Movies dataset and provides meaningful insigh
 The project includes:
 
 Top Rated Movies by Certification (R, PG, PG-13, Approved, etc.)
-
+```
 Function: COUNTIF & Pivot tables
-
+```
 Insight: Which movie certification dominates top-rated films?
 
 Maximum Rating by Movie Certification
@@ -33,15 +33,15 @@ Function: LARGE, INDEX-MATCH
 Insight: The absolute best of IMDb according to ratings.
 
 Decade with Highest Average Ratings
-
-Function: AVERAGE + Pivot table
-
+```
+function: AVERAGE + Pivot table
+```
 Insight: Which era had the best quality films?
 
 Runtime Analysis
-
+```
 Function: LEN, VALUE, data cleaning to extract runtime in minutes
-
+```
 Insight: Do longer movies get higher ratings?
 
 Interactive Dashboards
@@ -49,9 +49,9 @@ Interactive Dashboards
 Excel dashboard combining slicers, charts, and tables for dynamic analysis.
 
 🛠️ Tools & Functions Used
-
+```
 Excel Functions: COUNTIF, MAX, AVERAGE, LARGE, INDEX, MATCH, LEN, VALUE
-
+```
 Pivot Tables & Pivot Charts
 
 Data Cleaning & Transformation (Runtime formatting, handling duplicates)
