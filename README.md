@@ -1,6 +1,7 @@
 # IMDb Top Movies Analysis
 
-![imbd](https://www.google.com/url?sa=i&url=https%3A%2F%2Fchimaizuobi.com%2Fget-imdb-credit-filmmaker%2F&psig=AOvVaw2ZLV4maVD99wv5NidhOBAY&ust=1757606694042000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCPDHxbrJzo8DFQAAAAAdAAAAABAE)
+![imbd](<img width="316" height="159" alt="image" src="https://github.com/user-attachments/assets/b3340949-a888-44a0-b86b-32333d233133" />
+)
 
 This project explores the Top IMDb Movies dataset and provides meaningful insights into movie trends, ratings, genres, and popularity across decades. Using Excel (pivot tables, charts, and dashboards), the project answers analytical questions about movies and helps uncover what makes a film truly "top-rated".
 
